@@ -1,6 +1,5 @@
 SYSC3303 - Assignment 2
 Laura Machado
-100963217
 
 Files:
 ChefAgent.java
